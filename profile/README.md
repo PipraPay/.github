@@ -1,12 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to PipraPay!
 
-<!--
+Thank you for checking out **PipraPay**, a self-hosted, plugin-based payment automation platform — built for developers, startups, and businesses that value freedom and control. 🚀
 
-**Here are some ideas to get you started:**
+We're glad you're here! This repository contains tools, plugins, and resources to help you extend and customize PipraPay just like WordPress.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 What You Can Do:
+- Explore community-built modules
+- Submit issues, improvements, or feature requests
+- Join the community based payment automation ecosystem
+
+## 📚 Official Documentation
+Get started building your own PipraPay plugin or integration:  
+🔗 https://piprapay.readme.io
+
+## 🤝 Contribute
+Let’s build something powerful — together!
+
+Made with ❤️ by the PipraPay Team  
+Powered by [QubePlug Bangladesh](https://qubeplugbangladesh.com.bd/)
