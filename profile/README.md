@@ -1,20 +1,49 @@
-# 👋 Welcome to PipraPay!
+# 👋 Welcome to PipraPay
 
-Thanks for checking out **PipraPay** — an open-source, plugin-based payment automation platform built for developers, startups, and businesses that value freedom, control, and flexibility. 🚀
+Thanks for checking out **PipraPay** — a self-hosted, open-source (AGPL-3.0) payment automation platform built for developers, startups, and businesses who want full control over their payment infrastructure.
 
-This repository gives you everything you need to **extend, customize, and control** your payments, just like WordPress empowers websites.
+PipraPay unifies multiple payment gateways, wallets, and SMS-based verification into a single programmable system — enabling you to automate, route, and verify payments across APIs and real-world payment methods.
 
-## 📌 What You Can Do
-- Explore **community-built modules**  
-- Submit issues, suggest improvements, or request new features  
-- Join the **open-source payment automation community**
+---
 
-## 📚 Official Documentation
-Get started building your own PipraPay plugin or integration:  
-🔗 [https://piprapay.readme.io](https://piprapay.readme.io)
+## 🚀 What PipraPay Does
 
-## 🤝 Contribute
-Let’s **build something powerful — together!**  
+- 🌐 Integrates multiple payment gateways (Stripe, PayPal, bKash, Nagad, and more)
+- 📲 Supports SMS-based payment verification workflows
+- ⚙️ Provides plugin-based architecture (like an OS for payments)
+- 🔗 Enables webhook-driven automation for real-time payment events
+- 🧩 Allows custom gateway and module development
+- 🏗 Fully self-hosted — you control your data and infrastructure
 
-Made with ❤️ by the **PipraPay Team**  
-Powered by [QubePlug Bangladesh](https://qubeplugbangladesh.com.bd/)
+---
+
+## 💡 Why PipraPay Exists
+
+In many regions, modern payment APIs are not available or are limited. PipraPay bridges that gap by combining API-based payments with real-world SMS and manual verification systems — turning any payment method into a programmable workflow.
+
+---
+
+## 📚 Documentation
+Get started and explore full guides here:  
+🔗 https://piprapay.readme.io
+
+---
+
+## 🤝 Community & Contributions
+
+PipraPay is built with and for the community.  
+We welcome contributions, ideas, and improvements.
+
+- Report issues
+- Suggest features
+- Build plugins and integrations
+- Share real-world use cases
+
+---
+
+## ❤️ Built With Purpose
+
+PipraPay is designed to empower developers and businesses with freedom, flexibility, and transparency in payment automation.
+
+Made with ❤️ by the PipraPay Team  
+Powered by QubePlug
