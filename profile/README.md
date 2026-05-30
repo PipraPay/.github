@@ -63,8 +63,15 @@ Android app for payment automation:
 
 ## 📚 Documentation
 
-- 🌐 https://help.piprapay.com  
-- 📘 https://piprapay.readme.io  
+<p align="center">
+  <a href="https://help.piprapay.com" target="_blank">
+    <img src="https://img.shields.io/badge/Docs-Help%20Center-4A90E2?style=for-the-badge&logo=bookstack&logoColor=white">
+  </a>
+
+  <a href="https://piprapay.readme.io" target="_blank">
+    <img src="https://img.shields.io/badge/API%20Reference-Documentation-FF6B00?style=for-the-badge&logo=swagger&logoColor=white">
+  </a>
+</p>
 
 ## 🤝 Community & Contribution
 
